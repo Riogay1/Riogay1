@@ -1,12 +1,5 @@
-🌸 はじめまして！🌸
-趣味と情熱でコードを書く、ちょっぴりオタクな開発者です！
-
-🧠 好きなこと: アニメ・ゲーム・プログラミング・カフェ巡り
-💻 得意な言語: JavaScript / TypeScript / Python / C++（でも、バグと一緒に日々成長中…！）
-🎮 推しジャンル: SF、異世界転生、日常系（癒されたい）
-
-🚀 フロントエンドもバックエンドも触れる、フルスタック見習いエンジニア！
-👾 深夜にコーディングしながらアニメ見るのが日課です。
-✨「動くものを作るのが楽しい！」をモットーに、今日もGitにコミット！
-
-🔗 一緒にコードで世界をちょっぴり面白くしませんか？
+Full-stack developer using TypeScript & Python  
+Experienced with React, Vite, Tailwind, Express, FastAPI, LangChain  
+JWT-based authentication & security  
+MySQL database, Node.js & WebSocket server  
+Development environment: VSCode  
