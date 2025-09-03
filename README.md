@@ -7,6 +7,6 @@
 
 실시간 투자 정보(뉴스, 공시, 차트 등)를 수집, 요약, 분석하여 개인 투자자에게 빠르고 정확한 의사결정을 지원하는 통합 웹 서비스입니다.
 
-
+#### - EAT AI
 #### [자세히 보기](https://github.com/2025-SMHRD-KDT-Languageintelligence-2/gitTestJo)
 
