@@ -8,5 +8,10 @@
 실시간 투자 정보(뉴스, 공시, 차트 등)를 수집, 요약, 분석하여 개인 투자자에게 빠르고 정확한 의사결정을 지원하는 통합 웹 서비스입니다.
 
 #### - EAT AI
+
+본 프로젝트는 FastAPI + Spring Boot 기술을 활용하여 사용자가 선호하는 식단을 자동 생성 및 추천해주는 AI 기반 프로젝트입니다.
+
+프론트와 백엔드를 분리하여 Python과 Java(Spring Boot)를 병행 개발하였습니다.
+
 #### [자세히 보기](https://github.com/2025-SMHRD-KDT-Languageintelligence-2/gitTestJo)
 
