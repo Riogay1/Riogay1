@@ -1,5 +1,3 @@
-Full-stack developer using TypeScript & Python  
-Experienced with React, Vite, Tailwind, Express, FastAPI, LangChain  
-JWT-based authentication & security  
-MySQL database, Node.js & WebSocket server  
-Development environment: VSCode  
+https://github.com/rkdsan1013/smhrd-stockpanzee
+
+https://github.com/2025-SMHRD-KDT-Languageintelligence-2/gitTestJo
